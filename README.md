@@ -9,7 +9,7 @@ Pretendo me formar em ciência da computação.<br>
 I want to enter in the college of computer science.<br><br>
 
 Por enquanto é só<br>
-For the moment it's this.<br><br>
+That's it for now.<br><br>
 
 ![image](https://github.com/Oozaru341/Oozaru341/assets/119820531/210b5082-0d4c-4a3c-9902-fb4407d7cda6)
 
